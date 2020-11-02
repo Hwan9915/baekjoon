@@ -4,7 +4,7 @@ using namespace std;
 
 void num_1021()
 {
-	//입력받기
+	//입력받기/
 	long long N, new_num, P, temp;
 	int ranking=0;
 	cin >> N >> new_num >> P;
