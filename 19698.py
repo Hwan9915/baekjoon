@@ -1,0 +1,5 @@
+N,W,H,L=map(int,input().split())
+a=int(W/L)
+b=int(H/L)
+if(N>a*b): print(a*b)
+else: print(N)
